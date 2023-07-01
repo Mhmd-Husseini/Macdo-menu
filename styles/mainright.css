@@ -1,8 +1,8 @@
 .main-right{
     display: inline-block;
-    background-color: antiquewhite;
     width: 47%;
     margin-right: 15%;
+    float: right;
 }
 
 .main-right-top button{
@@ -17,6 +17,16 @@
     margin: 3px;
 }
 .main-right-bottom img{
-    width: 25%;
-    padding: 3.5%;
+    width: 75%;
+    vertical-align: middle;
 }
+.table-right{
+    vertical-align: middle;
+    text-align: center;
+    vertical-align: top;
+}
+.main-right-bottom{
+    vertical-align: top;
+    display: inline-block;
+}
+
