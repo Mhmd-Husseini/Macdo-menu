@@ -1,0 +1,27 @@
+body{
+    font-family:   Helvetica,sans-serif, Arial;
+}
+.main-left{
+    display: inline-block;
+    width: 22%;
+    margin-left: 10%;
+    margin-right: 2%;
+}
+.main-right{
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 50%;
+    margin-right: 15%;
+}
+.main-left-top,.main-left-bottom{
+    border:solid;
+    border-color: rgb(175, 174, 174);
+    border-radius: 20px;
+    border-width: 1px;
+    background-color: white;
+    padding: 6px;
+    margin-bottom: 18px;
+}
+.main-left-top img,.main-left-bottom img{
+    vertical-align: middle;
+}
