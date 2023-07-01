@@ -1,0 +1,22 @@
+.main-right{
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 47%;
+    margin-right: 15%;
+}
+
+.main-right-top button{
+    background-color:#FFBC0D;
+    border-radius: 20px;
+    font-weight:600;
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right:15px;
+    margin: 3px;
+}
+.main-right-bottom img{
+    width: 25%;
+    padding: 3.5%;
+}

@@ -4,15 +4,10 @@ body{
 .main-left{
     display: inline-block;
     width: 22%;
-    margin-left: 10%;
+    margin-left: 13%;
     margin-right: 2%;
 }
-.main-right{
-    display: inline-block;
-    background-color: antiquewhite;
-    width: 50%;
-    margin-right: 15%;
-}
+
 .main-left-top,.main-left-bottom{
     border:solid;
     border-color: rgb(175, 174, 174);
