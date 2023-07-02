@@ -2,6 +2,11 @@ nav{
     border-bottom: 3px;
     border-bottom: solid;
     border-bottom-color: rgb(230, 228, 228);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
 }
 .nav-left, .nav-middle, .nav-right{
     display: inline-block;
